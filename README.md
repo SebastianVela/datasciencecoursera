@@ -1,7 +1,7 @@
 
 
 <center>
-<h1 style="font-family: Arial, sans-serif; color:SlateBlue; font-size:60px"> Coursera Data Science </h1>
+<h1 style="font-family: Arial, sans-serif; color:SlateBlue; font-size:60px; text-align: center"> Coursera Data Science </h1>
 </center>
 
 DICK CHENEY—vice-president to George W. Bush, architect of the Iraq war and a pantomime villain for liberals—is an unlikely candidate to lead a bipartisan charge against President Donald Trump. Yet it was Mr Cheney who corralled all ten living former defence secretaries in an extraordinary open letter published in the Washington Post on January 3rd.
